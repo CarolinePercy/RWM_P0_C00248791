@@ -190,7 +190,7 @@
       }
     },
     "ie.itcarlow.modo3": {
-      "version": "file:ie.setu.cubefilter",
+      "version": "file:ie.setu.modo3",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
