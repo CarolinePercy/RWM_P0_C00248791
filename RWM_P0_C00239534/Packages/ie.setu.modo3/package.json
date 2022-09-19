@@ -3,5 +3,5 @@
   "version": "0.1.0",
   "displayName": "ModO3",
   "description": "A filter that get the Mod 3 of numbers.",
-  "unity": "2020.3"
+  "unity": "2021.3"
 }
