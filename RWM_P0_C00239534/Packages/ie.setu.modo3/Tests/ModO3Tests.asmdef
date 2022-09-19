@@ -1,9 +1,10 @@
 {
     "name": "Tests",
+    "rootNamespace": "",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "CubeFilter"
+        "ModO3"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
